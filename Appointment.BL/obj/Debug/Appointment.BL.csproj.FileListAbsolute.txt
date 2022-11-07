@@ -1,0 +1,14 @@
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\bin\Debug\Appointment.BL.dll
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\bin\Debug\Appointment.BL.pdb
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\bin\Debug\Appointment.Common.dll
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\bin\Debug\Appointment.DAL.dll
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\bin\Debug\EntityFramework.dll
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\bin\Debug\Appointment.Common.pdb
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\bin\Debug\Appointment.DAL.pdb
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\bin\Debug\Appointment.DAL.dll.config
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\bin\Debug\EntityFramework.xml
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\obj\Debug\Appointment.BL.csproj.AssemblyReference.cache
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\obj\Debug\Appointment.BL.csproj.CoreCompileInputs.cache
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\obj\Debug\Appointment.BL.csproj.CopyComplete
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\obj\Debug\Appointment.BL.dll
+C:\Users\U9NF\Desktop\Petzey\Appointment.BL\obj\Debug\Appointment.BL.pdb

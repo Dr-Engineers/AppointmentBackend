@@ -1,0 +1,16 @@
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\bin\Debug\Appointment.DAL.dll.config
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\bin\Debug\Appointment.DAL.dll
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\bin\Debug\Appointment.DAL.pdb
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\bin\Debug\Appointment.Common.dll
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\bin\Debug\EntityFramework.dll
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\bin\Debug\Appointment.Common.pdb
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\bin\Debug\EntityFramework.xml
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\obj\Debug\Appointment.DAL.csproj.AssemblyReference.cache
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\obj\Debug\Appointment.DAL.csproj.CoreCompileInputs.cache
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\obj\Debug\Appointment.DAL.csproj.CopyComplete
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\obj\Debug\Appointment.DAL.dll
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\obj\Debug\Appointment.DAL.pdb
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\obj\Debug\Appointment.DAL.Migrations.migration.resources
+C:\Users\U9NF\Desktop\Petzey\Appointment.DAL\obj\Debug\Appointment.DAL.csproj.GenerateResource.cache
