@@ -4,3 +4,9 @@ C:\Users\U9NF\Desktop\Petzey\Appointment.Common\obj\Debug\Appointment.Common.csp
 C:\Users\U9NF\Desktop\Petzey\Appointment.Common\obj\Debug\Appointment.Common.csproj.CoreCompileInputs.cache
 C:\Users\U9NF\Desktop\Petzey\Appointment.Common\obj\Debug\Appointment.Common.dll
 C:\Users\U9NF\Desktop\Petzey\Appointment.Common\obj\Debug\Appointment.Common.pdb
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\bin\Debug\Appointment.Common.dll
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\bin\Debug\Appointment.Common.pdb
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.dll
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.pdb
