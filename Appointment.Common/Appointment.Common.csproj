@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DTO\CreatingAppointmentDTO.cs" />
     <Compile Include="Entity\Appointment.cs" />
     <Compile Include="Entity\Medicine.cs" />
     <Compile Include="Entity\PetIssueAssociation.cs" />
