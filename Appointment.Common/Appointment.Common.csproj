@@ -53,19 +53,20 @@
   <ItemGroup>
     <Compile Include="DTO\CardDetailsDTO.cs" />
     <Compile Include="DTO\CreatingAppointmentDTO.cs" />
-    <Compile Include="Entity\Appointment.cs" />
-    <Compile Include="Entity\Medicine.cs" />
-    <Compile Include="Entity\PetIssueAssociation.cs" />
-    <Compile Include="Entity\Prescription.cs" />
-    <Compile Include="Entity\Recommendation.cs" />
-    <Compile Include="Entity\RecommendedClinic.cs" />
-    <Compile Include="Entity\RecommendedDoctors.cs" />
-    <Compile Include="Entity\Status.cs" />
-    <Compile Include="Entity\Symptom.cs" />
-    <Compile Include="Entity\SymptomAssociation.cs" />
-    <Compile Include="Entity\Test.cs" />
-    <Compile Include="Entity\TestAssociation.cs" />
-    <Compile Include="Entity\Vital.cs" />
+    <Compile Include="Entities.Preset\Clinic.cs" />
+    <Compile Include="Entities.Preset\Doctor.cs" />
+    <Compile Include="Entities.Preset\Medicine.cs" />
+    <Compile Include="Entities.Preset\PetIssue.cs" />
+    <Compile Include="Entities.Preset\Symptom.cs" />
+    <Compile Include="Entities.Preset\Test.cs" />
+    <Compile Include="Entities\Appointment.cs" />
+    <Compile Include="Entities\DiagnosedSymptom.cs" />
+    <Compile Include="Entities\ObservedPetIssue.cs" />
+    <Compile Include="Entities\PrescribedMedicine.cs" />
+    <Compile Include="Entities\PrescribedTest.cs" />
+    <Compile Include="Entities\Recommendation.cs" />
+    <Compile Include="Entities\Status.cs" />
+    <Compile Include="Entities\Vital.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

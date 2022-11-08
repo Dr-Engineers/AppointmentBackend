@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Appointment.Common.Entity
+namespace Appointment.common.Entities
 {
     public enum Status
     {
         Confirmed,
-        closed,
-        cancelled
+        Canceled,
+        Closed
     }
 }

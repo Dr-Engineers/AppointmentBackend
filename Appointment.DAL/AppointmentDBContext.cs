@@ -1,24 +1,19 @@
-﻿using Appointment.Common.Entity;
-
+﻿using System;
+using System.Collections.Generic;
 using System.Data.Entity;
+using System.IO.Pipes;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Appointment.DAL
 {
-    public class AppointmentDBContext: DbContext
+    public class AppointmentDbContext:DbContext
     {
-
-        public AppointmentDBContext(): base("name=DefaultConnection")
+        public AppointmentDbContext():base("name=DefaultString")
         {
 
         }
-
-        public DbSet<Common.Entity.Appointment> Appointments { get; set; }
-        //public DbSet<Prescription> Prescriptions { get; set; }
-        //public DbSet<Recommendation> Recommendations { get; set; }
-        //public DbSet<Symptom> Symptoms { get; set; }
-        //public DbSet<Vital> Vitals { get; set; }
-        //public DbSet<Test> Tests { get; set; }
-        //public DbSet<RecommendedClinic> RecommendedClinics { get; set; }
-
+        public DbSet<common.Entities.Appointment> Appointments { get; set; }
     }
 }

@@ -16,3 +16,15 @@ C:\Users\Admin\Desktop\AppointmentBackend\Appointment.Common\bin\Debug\EntityFra
 C:\Users\Admin\Desktop\AppointmentBackend\Appointment.Common\bin\Debug\EntityFramework.xml
 C:\Users\Admin\Desktop\AppointmentBackend\Appointment.Common\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Admin\Desktop\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.csproj.CopyComplete
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\bin\Debug\Appointment.Common.dll.config
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\bin\Debug\Appointment.Common.dll
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\bin\Debug\Appointment.Common.pdb
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.csproj.CopyComplete
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.dll
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.pdb

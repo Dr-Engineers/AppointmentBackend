@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Appointment.Common.Entity
+namespace Appointment.common.Entities.Preset
 {
-    public class RecommendedClinic
+    public class Clinic
     {
-        public int RecommendedClinicID { get; set; }
         public int ClinicID { get; set; }
+        public string ClinicName { get; set; }
     }
 }
