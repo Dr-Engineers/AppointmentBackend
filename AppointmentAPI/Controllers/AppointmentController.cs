@@ -9,6 +9,12 @@ namespace AppointmentAPI.Controllers
 {
     public class AppointmentController : ApiController
     {
+        IBusinessLayer bl = null;
+        public AppointmentController(IBusinessLayer bl)
+        {
+            this.bl = bl;
+        }
+
         public IHttpActionResult Get()
         {
             return Ok("Get is working");

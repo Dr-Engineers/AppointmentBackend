@@ -1,3 +1,4 @@
+using Appointment.BL;
 using System;
 
 using Unity;
@@ -42,6 +43,7 @@ namespace AppointmentAPI
 
             // TODO: Register your type's mappings here.
             // container.RegisterType<IProductRepository, ProductRepository>();
+            container.RegisterType<IBusinessLayer, BusinessLayer>();
         }
     }
 }
