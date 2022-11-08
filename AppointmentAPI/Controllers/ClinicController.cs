@@ -15,5 +15,10 @@ namespace AppointmentAPI.Controllers
         {
             this.bl = bl;
         }
+
+        public IHttpActionResult Get()
+        {
+            return Ok("Get is working");
+        }
     }
 }
