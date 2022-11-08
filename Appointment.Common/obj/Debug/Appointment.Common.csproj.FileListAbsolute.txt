@@ -28,3 +28,15 @@ C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\App
 C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.csproj.CopyComplete
 C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.dll
 C:\Users\Admin\Desktop\Petzy\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.pdb
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\bin\Debug\Appointment.Common.dll.config
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\bin\Debug\Appointment.Common.dll
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\bin\Debug\Appointment.Common.pdb
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\bin\Debug\EntityFramework.dll
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\bin\Debug\EntityFramework.xml
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.csproj.AssemblyReference.cache
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.csproj.CoreCompileInputs.cache
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.csproj.CopyComplete
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.dll
+C:\Users\U9NF\Desktop\Petzey\AppointmentBackend\Appointment.Common\obj\Debug\Appointment.Common.pdb

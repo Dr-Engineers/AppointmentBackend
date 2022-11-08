@@ -50,7 +50,14 @@ namespace Appointment.BL
 
         public CardDetailsDTO getCardDetailsForBooking(int doctorID, DateTime date)
         {
-            throw new NotImplementedException();
+            CardDetailsDTO cardDetailsDTO = new CardDetailsDTO();
+            //TODO Appointment entity Get cared details from repo
+       
+            cardDetailsDTO.AppointmentStatus = Status.Confirmed;
+            cardDetailsDTO.AppointmentDate = new DateTime();
+            cardDetailsDTO.PetID = 1;
+
+            return cardDetailsDTO;
         }
 
         public List<Clinic> getClinic()
