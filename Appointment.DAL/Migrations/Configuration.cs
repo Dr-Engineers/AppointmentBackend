@@ -5,7 +5,7 @@
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<Appointment.DAL.AppointmentDBContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<Appointment.DAL.AppointmentDbContext>
     {
         public Configuration()
         {
@@ -13,7 +13,7 @@
             AutomaticMigrationDataLossAllowed = true;
         }
 
-        protected override void Seed(Appointment.DAL.AppointmentDBContext context)
+        protected override void Seed(Appointment.DAL.AppointmentDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 
