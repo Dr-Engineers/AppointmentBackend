@@ -426,3 +426,10 @@ C:\Users\Admin\Desktop\Petzy\AppointmentBackend\AppointmentAPI\obj\Debug\Appoint
 C:\Users\Admin\Desktop\Petzy\AppointmentBackend\AppointmentAPI\obj\Debug\AppointmentAPI.csproj.CopyComplete
 C:\Users\Admin\Desktop\Petzy\AppointmentBackend\AppointmentAPI\obj\Debug\AppointmentAPI.dll
 C:\Users\Admin\Desktop\Petzy\AppointmentBackend\AppointmentAPI\obj\Debug\AppointmentAPI.pdb
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\AppointmentAPI\bin\Appointment.DAL.dll
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\AppointmentAPI\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\AppointmentAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\AppointmentAPI\bin\Appointment.DAL.pdb
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\AppointmentAPI\bin\Appointment.DAL.dll.config
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\AppointmentAPI\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Petzy\AppointmentBackend\AppointmentAPI\bin\EntityFramework.SqlServer.xml

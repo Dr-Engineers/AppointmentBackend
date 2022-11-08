@@ -1,4 +1,5 @@
 ﻿using Appointment.BL;
+using Appointment.DAL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +19,7 @@ namespace AppointmentAPI.Controllers
 
         public IHttpActionResult Get()
         {
-            return Ok("Get is working");
+            return Ok();
         }
         [Route("api/Appointment/{number}")]
         public IHttpActionResult Post(int number)

@@ -14,5 +14,10 @@ namespace Appointment.DAL
 
         }
         public DbSet<common.Entities.Appointment> Appointments { get; set; }
+        public DbSet<common.Entities.Preset.Clinic> Clinics { get; set; }
+        public DbSet<common.Entities.Preset.Medicine> Medicines { get; set; }
+        public DbSet<common.Entities.Preset.PetIssue> PetIssues { get; set; }
+        public DbSet<common.Entities.Preset.Symptom> Symptoms { get; set; }
+        public DbSet<common.Entities.Preset.Test> Tests { get; set; }
     }
 }
