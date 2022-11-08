@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Appointment.BL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -9,5 +10,10 @@ namespace AppointmentAPI.Controllers
 {
     public class ClinicController : ApiController
     {
+        IBusinessLayer bl = null;
+        public ClinicController(IBusinessLayer bl)
+        {
+            this.bl = bl;
+        }
     }
 }
